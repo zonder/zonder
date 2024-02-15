@@ -1,6 +1,7 @@
 <div align="center">
 
 [![Hello World, I'm Alex!](assets/header.gif)](https://github.com/zonder)
+Background GIF by [DALL·E]
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/jaspergabriel/](https://www.linkedin.com/in/alex-masalov/)) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:masalov.alexander@gmail.com?subject=Hello%20Alex,%20From%20Github)
