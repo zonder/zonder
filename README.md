@@ -2,9 +2,9 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@amasalov) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-masalov/) &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masalov.alexander@gmail.com) &nbsp;
 [![MasalovTech](https://img.shields.io/badge/Masalov.Tech-0078D7?style=for-the-badge&logo=wix&logoColor=white)](https://masalov.tech) &nbsp;
 [![AlexMasalov](https://img.shields.io/badge/AlexMasalov.Com-008CC1?style=for-the-badge&logo=wix&logoColor=white)](https://www.alexmasalov.com) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masalov.alexander@gmail.com) &nbsp;
 
 <br> <!-- Adding space -->
 
