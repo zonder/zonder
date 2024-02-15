@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Alex!](assets/header.webp)](https://github.com/zonder)
+[![Hello World, I'm Alex!](assets/heading.webp)](https://github.com/zonder)
 Background GIF by [DALL·E]
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/jaspergabriel/](https://www.linkedin.com/in/alex-masalov/)) &nbsp;
